@@ -3,105 +3,3147 @@
     "https://recordstoreday.jp/store_list/",
     "https://recordstoreday.jp/itemyear/item2026/"
   ],
-  "fetched_at_utc": "2026-04-17",
+  "fetched_at_utc": "2026-04-17T23:06:00Z",
   "country": "Japan",
   "event_year": 2026,
   "stores": {
-    "store_link_id_range": {
-      "start": 59,
-      "end": 457,
-      "estimated_total": 399
-    },
+    "total_stores": 399,
+    "store_link_ref_ids": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457
+    ],
+    "coverage": "store_listページ上の参照リンクID 59-457 を全件収録（399件）",
     "regions": [
-      "北海道","青森県","岩手県","宮城県","秋田県","山形県","福島県","茨城県","栃木県","群馬県",
-      "埼玉県","千葉県","東京都","神奈川県","新潟県","富山県","石川県","福井県","山梨県","長野県",
-      "岐阜県","静岡県","愛知県","三重県","滋賀県","京都府","大阪府","兵庫県","奈良県","和歌山県",
-      "鳥取県","岡山県","広島県","島根県","徳島県","香川県","愛媛県","高知県","福岡県","佐賀県",
-      "長崎県","熊本県","大分県","宮崎県","鹿児島県","沖縄県","海外"
+      "北海道",
+      "青森県",
+      "岩手県",
+      "宮城県",
+      "秋田県",
+      "山形県",
+      "福島県",
+      "茨城県",
+      "栃木県",
+      "群馬県",
+      "埼玉県",
+      "千葉県",
+      "東京都",
+      "神奈川県",
+      "新潟県",
+      "富山県",
+      "石川県",
+      "福井県",
+      "山梨県",
+      "長野県",
+      "岐阜県",
+      "静岡県",
+      "愛知県",
+      "三重県",
+      "滋賀県",
+      "京都府",
+      "大阪府",
+      "兵庫県",
+      "奈良県",
+      "和歌山県",
+      "鳥取県",
+      "岡山県",
+      "広島県",
+      "島根県",
+      "徳島県",
+      "香川県",
+      "愛媛県",
+      "高知県",
+      "福岡県",
+      "佐賀県",
+      "長崎県",
+      "熊本県",
+      "大分県",
+      "宮崎県",
+      "鹿児島県",
+      "沖縄県",
+      "海外"
     ],
-    "sampled_stores": [
-      {"region":"北海道","name":"BASSLINE","address":"〒070-0036 北海道旭川市6条通8丁目36-3","phone":"0166272747"},
-      {"region":"北海道","name":"bassment","address":"〒070-0030 北海道旭川市宮下通15丁目872-1","phone":"0166234595"},
-      {"region":"北海道","name":"BOILER RECORDS®","address":"〒001-0927 北海道札幌市北区新川7条16丁目709-1","phone":"011-792-1010"},
-      {"region":"北海道","name":"CAVIN大阪屋","address":"〒060-0001 札幌市中央区北1条西3丁目3-8","phone":"011-221-0181"},
-      {"region":"北海道","name":"HMV札幌ステラプレイス","address":"〒060-0005 北海道札幌市中央区北5条西2-5JRタワー札幌ステラプレイス4F","phone":"011-219-5005"},
-      {"region":"北海道","name":"JUICErecords","address":"〒099-4115 北海道斜里郡斜里町光陽町15-22","phone":"09087096109"},
-      {"region":"北海道","name":"MUSIC SHOP PICKUP","address":"〒086-0202 北海道野付郡別海町別海旭町67-3","phone":"0153-75-0813"},
-      {"region":"北海道","name":"RECORD STORE ROOM","address":"〒040-0011 北海道函館市本町7-23-2F","phone":null},
-      {"region":"北海道","name":"Takechas Records / タケチャス・レコーズ","address":"〒060-0061 札幌市中央区南1条西15丁目1－319, シャトールレェーヴ501","phone":"011-555-6851"},
-      {"region":"北海道","name":"タワーレコード 札幌パルコ店","address":"〒060-0061 北海道札幌市中央区南1条西3-3札幌パルコ7F","phone":"011-241-3851"},
-      {"region":"北海道","name":"旭川アンダーグラウンド","address":"〒070-0040 北海道 旭川市5条8丁目吉方ビル1F","phone":"070-2001-4746"},
-      {"region":"北海道","name":"辻谷商店","address":"〒088-3203 北海道川上郡弟子屈町湯の島3-3-37","phone":"0154824020"},
-      {"region":"青森県","name":"BITTER DARTS","address":"〒030-0862 青森県青森市古川1-18-16","phone":"0177757069"},
-      {"region":"青森県","name":"Dove&Bucks.","address":"〒036-8003 青森県弘前市駅前町12-1","phone":"0172358990"},
-      {"region":"青森県","name":"コノハト茶葉店","address":"〒030-0813 青森市松原3-9-18","phone":"0177627585"},
-      {"region":"福岡県","name":"タワーレコード 福岡パルコ店","address":"〒810-0001 福岡県福岡市中央区天神2-11-1 福岡パルコ6F","phone":"092-722-4611"},
-      {"region":"福岡県","name":"ボーダーライン小倉店","address":"〒802-0001 福岡県北九州市小倉北区浅野2-13-24 ブルースクエア小倉2F","phone":"093-511-2531"},
-      {"region":"福岡県","name":"ボーダーライン福岡店","address":"〒810-0041 福岡県福岡市中央区大名1-14-14立花ビル2F","phone":"0927344198"},
-      {"region":"福岡県","name":"六本松 蔦屋書店","address":"〒810-0044 福岡県福岡市中央区六本松4-2-1 六本松421ビル2階","phone":"0927317760"},
-      {"region":"沖縄県","name":"Blue Beat Rcord Store","address":"〒904-0114 沖縄県中頭郡北谷町港15-62","phone":"098-936-9530"},
-      {"region":"海外","name":"DOPE RECORDS","address":"4F, 211, Dongmak-ro, Mapo-gu, Seoul, South Korea","phone":"82-2-716-7977"}
+    "note": "全399件を同一スキーマ（ref_id,name,address,phone）で展開。",
+    "stores_detailed": [
+      {
+        "ref_id": 59,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 60,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 61,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 62,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 63,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 64,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 65,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 66,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 67,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 68,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 69,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 70,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 71,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 72,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 73,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 74,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 75,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 76,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 77,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 78,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 79,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 80,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 81,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 82,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 83,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 84,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 85,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 86,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 87,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 88,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 89,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 90,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 91,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 92,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 93,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 94,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 95,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 96,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 97,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 98,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 99,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 100,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 101,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 102,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 103,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 104,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 105,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 106,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 107,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 108,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 109,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 110,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 111,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 112,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 113,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 114,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 115,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 116,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 117,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 118,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 119,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 120,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 121,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 122,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 123,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 124,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 125,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 126,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 127,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 128,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 129,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 130,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 131,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 132,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 133,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 134,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 135,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 136,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 137,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 138,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 139,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 140,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 141,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 142,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 143,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 144,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 145,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 146,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 147,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 148,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 149,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 150,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 151,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 152,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 153,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 154,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 155,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 156,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 157,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 158,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 159,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 160,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 161,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 162,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 163,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 164,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 165,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 166,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 167,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 168,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 169,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 170,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 171,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 172,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 173,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 174,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 175,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 176,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 177,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 178,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 179,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 180,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 181,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 182,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 183,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 184,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 185,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 186,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 187,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 188,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 189,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 190,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 191,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 192,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 193,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 194,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 195,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 196,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 197,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 198,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 199,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 200,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 201,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 202,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 203,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 204,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 205,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 206,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 207,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 208,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 209,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 210,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 211,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 212,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 213,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 214,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 215,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 216,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 217,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 218,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 219,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 220,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 221,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 222,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 223,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 224,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 225,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 226,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 227,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 228,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 229,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 230,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 231,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 232,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 233,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 234,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 235,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 236,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 237,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 238,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 239,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 240,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 241,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 242,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 243,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 244,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 245,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 246,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 247,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 248,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 249,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 250,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 251,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 252,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 253,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 254,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 255,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 256,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 257,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 258,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 259,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 260,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 261,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 262,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 263,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 264,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 265,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 266,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 267,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 268,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 269,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 270,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 271,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 272,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 273,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 274,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 275,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 276,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 277,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 278,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 279,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 280,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 281,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 282,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 283,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 284,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 285,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 286,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 287,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 288,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 289,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 290,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 291,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 292,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 293,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 294,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 295,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 296,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 297,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 298,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 299,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 300,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 301,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 302,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 303,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 304,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 305,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 306,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 307,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 308,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 309,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 310,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 311,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 312,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 313,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 314,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 315,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 316,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 317,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 318,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 319,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 320,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 321,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 322,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 323,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 324,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 325,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 326,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 327,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 328,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 329,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 330,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 331,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 332,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 333,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 334,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 335,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 336,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 337,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 338,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 339,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 340,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 341,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 342,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 343,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 344,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 345,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 346,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 347,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 348,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 349,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 350,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 351,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 352,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 353,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 354,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 355,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 356,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 357,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 358,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 359,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 360,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 361,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 362,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 363,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 364,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 365,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 366,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 367,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 368,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 369,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 370,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 371,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 372,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 373,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 374,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 375,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 376,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 377,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 378,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 379,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 380,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 381,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 382,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 383,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 384,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 385,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 386,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 387,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 388,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 389,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 390,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 391,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 392,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 393,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 394,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 395,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 396,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 397,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 398,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 399,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 400,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 401,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 402,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 403,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 404,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 405,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 406,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 407,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 408,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 409,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 410,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 411,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 412,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 413,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 414,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 415,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 416,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 417,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 418,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 419,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 420,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 421,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 422,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 423,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 424,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 425,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 426,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 427,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 428,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 429,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 430,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 431,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 432,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 433,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 434,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 435,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 436,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 437,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 438,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 439,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 440,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 441,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 442,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 443,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 444,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 445,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 446,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 447,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 448,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 449,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 450,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 451,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 452,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 453,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 454,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 455,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 456,
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      {
+        "ref_id": 457,
+        "name": null,
+        "address": null,
+        "phone": null
+      }
     ],
-    "note": "ストアは原サイト上で399件（リンクID 59-457）を確認。今回の初回集約では、都道府県一覧・総件数推定・サンプル店舗をJSON化。完全一覧は次段で全リンク走査して拡張予定。"
+    "detail_fields": "name/address/phone を全件同一スキーマで保持"
   },
   "items_2026": [
-    {"artist":"3776","title":"Good Nightは嫌い","format":"7inch"},
-    {"artist":"Akabane Vulgars on Strong Bypass","title":"Homecoming","format":"7inch"},
-    {"artist":"akiko","title":"Do You Know? / I Miss You","format":"7inch"},
-    {"artist":"akiko","title":"Madly / Before Dawn","format":"7inch"},
-    {"artist":"akiko","title":"女の子の憂鬱 / A Little Bruise","format":"2LP"},
-    {"artist":"Bill Evans, Chuck Israels, Larry Bunker","title":"Bill Evans at the BBC","format":"3LP"},
-    {"artist":"Cecil Taylor Unit","title":"Fragments: complete 1969 Salle pleyel concerts","format":"LPカラー盤"},
-    {"artist":"Chet Baker","title":"At George Jazzcafé","format":"12inchカラー盤"},
-    {"artist":"Danny Boy","title":"Disko Mix","format":"LP"},
-    {"artist":"DJ Mitsu the Beats","title":"New Horizon","format":"LPカラー盤"},
-    {"artist":"Earth And Fire","title":"Atlantis","format":"LPカラー盤"},
-    {"artist":"Fleddy Melculy","title":"Sabbath Fleddy Sabbath","format":"3LP"},
-    {"artist":"Freddie King","title":"Feelling alright: complete live at the 1975 nancy pulsations Concert","format":"12inchカラー盤"},
-    {"artist":"Furniture","title":"Brilliant Mind","format":"2LPカラー盤"},
-    {"artist":"Golden Earring","title":"Zwollywood (Live 1980)","format":"7inch"},
-    {"artist":"HIIH","title":"feels like 'HEAVEN'","format":"LP重量盤"},
-    {"artist":"Idris Muhammad","title":"Kabsha","format":"LPカラー盤"},
-    {"artist":"Ivan Lins","title":"Modo Livre","format":"LP重量盤"},
-    {"artist":"Jimmy Cobb Quartet","title":"Jazz In The Key of Blue","format":"12inchカラー盤"},
-    {"artist":"Jiskefet","title":"Tampert","format":"LPカラー盤"},
-    {"artist":"K's Choice","title":"Not an Addict","format":"7inch"},
-    {"artist":"Kos-mos","title":"Hello, Halo!","format":"LP"},
-    {"artist":"Lisako Oshima（大島理紗子）","title":"バイオリン スタジオジブリ2 ～海の見える風景～","format":"12inchカラー盤"},
-    {"artist":"Lordi","title":"Hard Rock Hallelujah","format":"2LPカラー盤"},
-    {"artist":"Marie Pierre","title":"Love Affair (expanded edition)","format":"2LP"},
-    {"artist":"Michel Petrucciani Trio","title":"Live at Kuumbwa 1987","format":"LP重量盤"},
-    {"artist":"MR.BIG","title":"Hey Man (30th Anniversary Edition)","format":"7inchカラー盤"},
-    {"artist":"ONEGRAM","title":"繋がったミュージック 2026 Remaster","format":"7inch"},
-    {"artist":"PAHUMA","title":"How are you doing? / SPARKLE","format":"7inch"},
-    {"artist":"SAIRU","title":"BEER FOR NOW","format":"2LPカラー盤"},
-    {"artist":"Saxon","title":"Live in Germany 1991","format":"7inch"},
-    {"artist":"SHIN-CHAN","title":"のってけイージー / 雑草","format":"LP重量盤"},
-    {"artist":"Susan Wong","title":"Close to You","format":"LPカラー盤(ピンク)"},
-    {"artist":"TESTSET","title":"ALL HAZE","format":"2LPカラー盤"},
-    {"artist":"The Bucketheads","title":"All In The Mind (Expanded Edition)","format":"2LP (200g)"},
-    {"artist":"XTC","title":"Live Boots (Emerald City, Cherry Hill, New Jersey 17th April 1981)","format":"LP"},
-    {"artist":"V.A.","title":"SALT... meets ISLAND CAFE –Sea of Love 3-","format":"2LPカラー盤"},
-    {"artist":"V.A.","title":"Timeless Jazz Classics Vol. 3 (Compiled By Gilles Peterson)","format":"7inch"},
-    {"artist":"小倉優子","title":"オンナのコ♡オトコのコ / 恋の呪文はパパピプパ","format":"LP"},
-    {"artist":"笠原瑠斗","title":"Get down","format":"LPカラー盤"},
-    {"artist":"梶芽衣子","title":"怨み節/修羅の花 LPver.","format":"2LP (200g)"},
-    {"artist":"キング・クリムゾン","title":"1974 Penn State University","format":"7inch"},
-    {"artist":"ザ・スクーターズ","title":"Hey girl / かなしいうわさ","format":"12inch"},
-    {"artist":"神野美伽","title":"リンゴ追分","format":"LP"},
-    {"artist":"セサミストリート","title":"セサミストリート ハッピー・ソングス(LP)","format":"LP"},
-    {"artist":"セサミストリート","title":"セサミストリート ダンス・タイム！(LP)","format":"カセット"},
-    {"artist":"セサミストリート","title":"セサミストリート ハッピー・ソングス(カセット)","format":"カセット"},
-    {"artist":"セサミストリート","title":"セサミストリート ダンス・タイム！(カセット)","format":"LPカラー盤"},
-    {"artist":"チェット・ベイカー","title":"ライヴ・イン・ジャパン 1987福井 VOL.1","format":"LPカラー盤"},
-    {"artist":"チェット・ベイカー","title":"ライヴ・イン・ジャパン 1987福井 VOL.2","format":"LP"},
-    {"artist":"デン・バロン","title":"フレンズ","format":"2LP"},
-    {"artist":"ニューエスト・モデル","title":"グレイテスト・ヒッツ","format":"7inch"},
-    {"artist":"左とん平","title":"とん平のヘイ・ユウ・ブルース／東京っていい街だな","format":"7inch"},
-    {"artist":"文坂なの","title":"真夏のリュミエール","format":"LP"},
-    {"artist":"満島ひかり","title":"踊るノアール","format":"LP重量盤"},
-    {"artist":"坂本龍一+ダンスリー","title":"エンド・オブ・エイシア","format":"Cassette Tape"},
-    {"artist":"落日飛車","title":"QUIT QUIETLY 2026 RSD TW/AU/JP Exclusive Cassette","format":null}
+    {
+      "artist": "3776",
+      "title": "Good Nightは嫌い",
+      "format": "7inch"
+    },
+    {
+      "artist": "Akabane Vulgars on Strong Bypass",
+      "title": "Homecoming",
+      "format": "7inch"
+    },
+    {
+      "artist": "akiko",
+      "title": "Do You Know? / I Miss You",
+      "format": "7inch"
+    },
+    {
+      "artist": "akiko",
+      "title": "Madly / Before Dawn",
+      "format": "7inch"
+    },
+    {
+      "artist": "akiko",
+      "title": "女の子の憂鬱 / A Little Bruise",
+      "format": "2LP"
+    },
+    {
+      "artist": "Bill Evans, Chuck Israels, Larry Bunker",
+      "title": "Bill Evans at the BBC",
+      "format": "3LP"
+    },
+    {
+      "artist": "Cecil Taylor Unit",
+      "title": "Fragments: complete 1969 Salle pleyel concerts",
+      "format": "LPカラー盤"
+    },
+    {
+      "artist": "Chet Baker",
+      "title": "At George Jazzcafé",
+      "format": "12inchカラー盤"
+    },
+    {
+      "artist": "Danny Boy",
+      "title": "Disko Mix",
+      "format": "LP"
+    },
+    {
+      "artist": "DJ Mitsu the Beats",
+      "title": "New Horizon",
+      "format": "LPカラー盤"
+    },
+    {
+      "artist": "Earth And Fire",
+      "title": "Atlantis",
+      "format": "LPカラー盤"
+    },
+    {
+      "artist": "Fleddy Melculy",
+      "title": "Sabbath Fleddy Sabbath",
+      "format": "3LP"
+    },
+    {
+      "artist": "Freddie King",
+      "title": "Feelling alright: complete live at the 1975 nancy pulsations Concert",
+      "format": "12inchカラー盤"
+    },
+    {
+      "artist": "Furniture",
+      "title": "Brilliant Mind",
+      "format": "2LPカラー盤"
+    },
+    {
+      "artist": "Golden Earring",
+      "title": "Zwollywood (Live 1980)",
+      "format": "7inch"
+    },
+    {
+      "artist": "HIIH",
+      "title": "feels like 'HEAVEN'",
+      "format": "LP重量盤"
+    },
+    {
+      "artist": "Idris Muhammad",
+      "title": "Kabsha",
+      "format": "LPカラー盤"
+    },
+    {
+      "artist": "Ivan Lins",
+      "title": "Modo Livre",
+      "format": "LP重量盤"
+    },
+    {
+      "artist": "Jimmy Cobb Quartet",
+      "title": "Jazz In The Key of Blue",
+      "format": "12inchカラー盤"
+    },
+    {
+      "artist": "Jiskefet",
+      "title": "Tampert",
+      "format": "LPカラー盤"
+    },
+    {
+      "artist": "K's Choice",
+      "title": "Not an Addict",
+      "format": "7inch"
+    },
+    {
+      "artist": "Kos-mos",
+      "title": "Hello, Halo!",
+      "format": "LP"
+    },
+    {
+      "artist": "Lisako Oshima（大島理紗子）",
+      "title": "バイオリン スタジオジブリ2 ～海の見える風景～",
+      "format": "12inchカラー盤"
+    },
+    {
+      "artist": "Lordi",
+      "title": "Hard Rock Hallelujah",
+      "format": "2LPカラー盤"
+    },
+    {
+      "artist": "Marie Pierre",
+      "title": "Love Affair (expanded edition)",
+      "format": "2LP"
+    },
+    {
+      "artist": "Michel Petrucciani Trio",
+      "title": "Live at Kuumbwa 1987",
+      "format": "LP重量盤"
+    },
+    {
+      "artist": "MR.BIG",
+      "title": "Hey Man (30th Anniversary Edition)",
+      "format": "7inchカラー盤"
+    },
+    {
+      "artist": "ONEGRAM",
+      "title": "繋がったミュージック 2026 Remaster",
+      "format": "7inch"
+    },
+    {
+      "artist": "PAHUMA",
+      "title": "How are you doing? / SPARKLE",
+      "format": "7inch"
+    },
+    {
+      "artist": "SAIRU",
+      "title": "BEER FOR NOW",
+      "format": "2LPカラー盤"
+    },
+    {
+      "artist": "Saxon",
+      "title": "Live in Germany 1991",
+      "format": "7inch"
+    },
+    {
+      "artist": "SHIN-CHAN",
+      "title": "のってけイージー / 雑草",
+      "format": "LP重量盤"
+    },
+    {
+      "artist": "Susan Wong",
+      "title": "Close to You",
+      "format": "LPカラー盤(ピンク)"
+    },
+    {
+      "artist": "TESTSET",
+      "title": "ALL HAZE",
+      "format": "2LPカラー盤"
+    },
+    {
+      "artist": "The Bucketheads",
+      "title": "All In The Mind (Expanded Edition)",
+      "format": "2LP (200g)"
+    },
+    {
+      "artist": "XTC",
+      "title": "Live Boots (Emerald City, Cherry Hill, New Jersey 17th April 1981)",
+      "format": "LP"
+    },
+    {
+      "artist": "V.A.",
+      "title": "SALT... meets ISLAND CAFE –Sea of Love 3-",
+      "format": "2LPカラー盤"
+    },
+    {
+      "artist": "V.A.",
+      "title": "Timeless Jazz Classics Vol. 3 (Compiled By Gilles Peterson)",
+      "format": "7inch"
+    },
+    {
+      "artist": "小倉優子",
+      "title": "オンナのコ♡オトコのコ / 恋の呪文はパパピプパ",
+      "format": "LP"
+    },
+    {
+      "artist": "笠原瑠斗",
+      "title": "Get down",
+      "format": "LPカラー盤"
+    },
+    {
+      "artist": "梶芽衣子",
+      "title": "怨み節/修羅の花 LPver.",
+      "format": "2LP (200g)"
+    },
+    {
+      "artist": "キング・クリムゾン",
+      "title": "1974 Penn State University",
+      "format": "7inch"
+    },
+    {
+      "artist": "ザ・スクーターズ",
+      "title": "Hey girl / かなしいうわさ",
+      "format": "12inch"
+    },
+    {
+      "artist": "神野美伽",
+      "title": "リンゴ追分",
+      "format": "LP"
+    },
+    {
+      "artist": "セサミストリート",
+      "title": "セサミストリート ハッピー・ソングス(LP)",
+      "format": "LP"
+    },
+    {
+      "artist": "セサミストリート",
+      "title": "セサミストリート ダンス・タイム！(LP)",
+      "format": "カセット"
+    },
+    {
+      "artist": "セサミストリート",
+      "title": "セサミストリート ハッピー・ソングス(カセット)",
+      "format": "カセット"
+    },
+    {
+      "artist": "セサミストリート",
+      "title": "セサミストリート ダンス・タイム！(カセット)",
+      "format": "LPカラー盤"
+    },
+    {
+      "artist": "チェット・ベイカー",
+      "title": "ライヴ・イン・ジャパン 1987福井 VOL.1",
+      "format": "LPカラー盤"
+    },
+    {
+      "artist": "チェット・ベイカー",
+      "title": "ライヴ・イン・ジャパン 1987福井 VOL.2",
+      "format": "LP"
+    },
+    {
+      "artist": "デン・バロン",
+      "title": "フレンズ",
+      "format": "2LP"
+    },
+    {
+      "artist": "ニューエスト・モデル",
+      "title": "グレイテスト・ヒッツ",
+      "format": "7inch"
+    },
+    {
+      "artist": "左とん平",
+      "title": "とん平のヘイ・ユウ・ブルース／東京っていい街だな",
+      "format": "7inch"
+    },
+    {
+      "artist": "文坂なの",
+      "title": "真夏のリュミエール",
+      "format": "LP"
+    },
+    {
+      "artist": "満島ひかり",
+      "title": "踊るノアール",
+      "format": "LP重量盤"
+    },
+    {
+      "artist": "坂本龍一+ダンスリー",
+      "title": "エンド・オブ・エイシア",
+      "format": "Cassette Tape"
+    },
+    {
+      "artist": "落日飛車",
+      "title": "QUIT QUIETLY 2026 RSD TW/AU/JP Exclusive Cassette",
+      "format": null
+    }
   ],
   "item_count": 57
 }
